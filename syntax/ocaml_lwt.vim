@@ -5,7 +5,7 @@
 "               Markus Mottl      <markus.mottl@gmail.com>
 "               Karl-Heinz Sylla  <Karl-Heinz.Sylla@gmd.de>
 "               Issac Trotts      <ijtrotts@ucdavis.edu>
-" URL:          http://www.ocaml.info/vim/syntax/ocaml.vim
+" URL:          https://github.com/raphael-proust/ocaml_lwt.vim
 " Last Change:  2011 May 05 - Added Lwt syntax support (R)
 "               2007 Apr 13 - Added highlighting of nativeints (MM)
 "               2006 Oct 09 - More highlighting improvements to numbers (MM)

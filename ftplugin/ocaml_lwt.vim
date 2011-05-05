@@ -5,7 +5,7 @@
 "              Markus Mottl        <markus.mottl@gmail.com>
 "              Stefano Zacchiroli  <zack@bononia.it>
 "              Vincent Aravantinos <firstname.name@imag.fr>
-" URL:         http://www.ocaml.info/vim/ftplugin/ocaml.vim
+" URL:         https://github.com/raphael-proust/ocaml_lwt.vim
 " Last Change: 2011 May 05 - Added Lwt syntax support (R)
 "              2010 Jul 10 - Bugfix, thanks to Pat Rondon
 "              2008 Jul 17 - Bugfix related to fnameescape (VA)

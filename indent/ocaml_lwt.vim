@@ -4,7 +4,7 @@
 "               Jean-Francois Yuen  <jfyuen@happycoders.org>
 "               Mike Leary          <leary@nwlink.com>
 "               Markus Mottl        <markus.mottl@gmail.com>
-" URL:          http://www.ocaml.info/vim/indent/ocaml.vim
+" URL:          https://github.com/raphael-proust/ocaml_lwt.vim
 " Last Change:  2011 May 05 - Added Lwt syntax support (R)
 "               2005 Jun 25 - Fixed multiple bugs due to 'else\nreturn ind' working
 "               2005 May 09 - Added an option to not indent OCaml-indents specially (MM)
