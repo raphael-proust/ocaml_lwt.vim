@@ -160,7 +160,7 @@ syn keyword  ocamlKeyword  in inherit initializer
 syn keyword  ocamlKeyword  land lazy let lwt match match_lwt
 syn keyword  ocamlKeyword  method mutable new of
 syn keyword  ocamlKeyword  parser private raise raise_lwt rec
-syn keyword  ocamlKeyword  try type
+syn keyword  ocamlKeyword  try try_lwt type
 syn keyword  ocamlKeyword  val virtual when while while_lwt with
 
 if exists("ocaml_revised")
