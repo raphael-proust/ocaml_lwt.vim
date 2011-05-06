@@ -72,9 +72,9 @@ endif
 let b:mw = ''
 let b:mw = b:mw . ',\<\(let\|lwt\)\>:\<and\>:\(\<in\>\|;;\)'
 let b:mw = b:mw . ',\<if\>:\<then\>:\<else\>'
-let b:mw = b:mw . ',\<\(for\|for_lwt\|while\|while_lwt\)\>:\<do\>:\<done\>,'
+let b:mw = b:mw . ',\<\(for\|for_lwt\|while\|while_lwt\)\>:\<do\>:\<done\>'
 let b:mw = b:mw . ',\<\(object\|sig\|struct\|begin\)\>:\<end\>'
-let b:mw = b:mw . ',\<\(match\|match_lwt\|try\)\>:\<with\>'
+let b:mw = b:mw . ',\<\(match\|match_lwt\|try\|try_lwt\)\>:\<with\>'
 let b:match_words = b:mw
 
 let b:match_ignorecase=0

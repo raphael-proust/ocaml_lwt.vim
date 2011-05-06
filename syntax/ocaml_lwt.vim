@@ -154,8 +154,7 @@ syn match    ocamlMTDef "=\s*\w\(\w\|'\)*\>"hs=s+1,me=s
 
 syn keyword  ocamlKeyword  and as assert class
 syn keyword  ocamlKeyword  constraint else
-syn keyword  ocamlKeyword  exception external fun
-
+syn keyword  ocamlKeyword  exception external fun finally
 syn keyword  ocamlKeyword  in inherit initializer
 syn keyword  ocamlKeyword  land lazy let lwt match match_lwt
 syn keyword  ocamlKeyword  method mutable new of
