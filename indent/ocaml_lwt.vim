@@ -26,7 +26,7 @@ setlocal textwidth=80
 " Comment formatting
 if !exists("no_ocaml_comments")
  if (has("comments"))
-   setlocal comments=sr:(*,mb:*,ex:*)
+   setlocal comments=sr:(*,mbr:*,ex:*)
    setlocal fo=cqort
  endif
 endif
