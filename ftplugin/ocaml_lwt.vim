@@ -35,6 +35,7 @@ endif
 let s:cposet=&cpoptions
 set cpo-=C
 setlocal efm=
+      \%E%f:%l:%c-%*\\d,
       \%E%f:%l:%c-%*\\d:,
       \%EFile\ \"%f\"\\,\ line\ %l\\,\ characters\ %c-%*\\d:,
       \%EFile\ \"%f\"\\,\ line\ %l\\,\ character\ %c:%m,
